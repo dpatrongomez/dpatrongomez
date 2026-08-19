@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:06b6d4&height=220&section=header&text=Daniel%20Patr%C3%B3n%20G%C3%B3mez&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Front-End%20%26%20Multiplatform%20Developer&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="./assets/header.svg" width="100%" alt="Header Banner" />
 
   <br/>
 
@@ -73,5 +73,5 @@ Desarrollador Frontend y de Aplicaciones Multiplataforma enfocado en la creació
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:06b6d4&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 </div>
