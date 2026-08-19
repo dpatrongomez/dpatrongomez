@@ -1,21 +1,77 @@
-<h1 align="center">Hi 👋, I'm dpatrongomez</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:06b6d4&height=220&section=header&text=Daniel%20Patr%C3%B3n%20G%C3%B3mez&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Front-End%20%26%20Multiplatform%20Developer&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-- 👨‍💻 All of my projects are available at [https://dpatrongomez.github.io/](https://dpatrongomez.github.io/)
+  <br/>
 
-- 📫 How to reach me **dpatrongomez@gmail.com**
+  [![Portfolio](https://img.shields.io/badge/Portfolio-dpatrongomez.github.io-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dpatrongomez.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-dpatrongomez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dpatrongomez/)
+  [![Email](https://img.shields.io/badge/Email-dpatrongomez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dpatrongomez@gmail.com)
+  [![Location](https://img.shields.io/badge/Location-Spain-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://dpatrongomez.github.io/)
 
-<h3 align="left">Connect with me:</h3>
+</div>
+
+<br/>
+
+### 👨‍💻 Sobre mí
+
+Desarrollador Frontend y de Aplicaciones Multiplataforma enfocado en la creación de interfaces modernas, escalables y con alto nivel de precisión visual.
+
+- 💼 Actualmente en **BBVA Technology en Europa**, desarrollando interfaces para aplicaciones móviles de banca internacional con **Lit, Web Components y Ember.js**.
+- 🚀 Especializado en el ecosistema **Frontend (Web Components, TypeScript, Astro)** y desarrollo móvil multiplataforma con **Flutter & Android**.
+- 🌐 Visita mi portfolio interactivo completo en [**dpatrongomez.github.io**](https://dpatrongomez.github.io/).
+- 📬 Puedes contactarme directamente en [**dpatrongomez@gmail.com**](mailto:dpatrongomez@gmail.com).
+
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+#### 🌐 Frontend & Web
 <p align="left">
-<a href="https://twitter.com/dpatrongomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dpatrongomez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dpatrongomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dpatrongomez" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Lit-324FFF?style=flat-square&logo=lit&logoColor=white" alt="Lit" />
+  <img src="https://img.shields.io/badge/Web_Components-29ABE2?style=flat-square&logo=webcomponents&logoColor=white" alt="Web Components" />
+  <img src="https://img.shields.io/badge/Ember.js-E04E39?style=flat-square&logo=emberdotjs&logoColor=white" alt="Ember.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+#### 📱 Mobile & Multiplataforma
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpatrongomez&show_icons=true&locale=en&layout=compact" alt="dpatrongomez" /></p>
+#### ⚙️ Herramientas & Entorno
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpatrongomez&show_icons=true&locale=en" alt="dpatrongomez" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpatrongomez&" alt="dpatrongomez" /></p>
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <a href="https://github.com/dpatrongomez">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dpatrongomez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="165" alt="Estadísticas de GitHub de Daniel" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dpatrongomez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165" alt="Lenguajes más usados" />
+  </a>
+  <br/>
+  <a href="https://github.com/dpatrongomez">
+    <img src="https://streak-stats.demolab.com/?user=dpatrongomez&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="165" alt="Racha de contribuciones" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:06b6d4&height=100&section=footer" width="100%" alt="Footer Banner" />
+</div>
